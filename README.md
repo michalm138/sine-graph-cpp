@@ -1,5 +1,5 @@
-# sine-graph-cpp
+# Sine graph C++
 
-This program may inclue errors.
+WARNING! This program may inclue errors.
 
 It was created with winbgim library.
