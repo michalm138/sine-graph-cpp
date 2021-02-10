@@ -32,10 +32,10 @@ int main()
     line(95, 400, 105, 400);
 
     //Drawing the sine graph
-    double y = 300;
+    double y;
     moveto(100, 300);
     setcolor(RED);
-    for (double x=100; x<=720; x+=1) {
+    for (int x=100; x<=720; x++) {
         y = int(sin(x/31.75)*100+300);
         lineto(x, y);
         moveto(x, y);

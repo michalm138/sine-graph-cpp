@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1612902346 source:c:\users\micha\desktop\development\c++\sine_graph\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+
+1612956860 source:c:\users\micha\desktop\sine_graph\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+
